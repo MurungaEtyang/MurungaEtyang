@@ -1,10 +1,10 @@
 ### Hi there 👋
-
+(https://github-readme-stats-sigma-five.vercel.app/api?username=MurungaEtyang&show_icons=true&theme=dracula&rank_icon=github)
 <!--
 **MurungaEtyang/MurungaEtyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-(https://github-readme-stats-sigma-five.vercel.app/api?username=MurungaEtyang&show_icons=true&theme=dracula&rank_icon=github)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
