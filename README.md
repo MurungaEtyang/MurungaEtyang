@@ -1,5 +1,7 @@
 ### Hi there 👋
 ![Evans](https://github-readme-stats-sigma-five.vercel.app/api?username=MurungaEtyang&show_icons=true&theme=dracula&rank_icon=github)
+
+![Evans](https://github.com/bastndev/Resources/blob/main/assets/snike/bastndev_snike.svg)
 <!--
 **MurungaEtyang/MurungaEtyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
